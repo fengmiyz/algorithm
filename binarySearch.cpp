@@ -21,6 +21,7 @@ int binarySearch(const vector<int>& nums, int target) {
 			return mid;
 		}
 	}
+}
 		
 
 // 找第一个比目标值大的元素
