@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main() {
+  int demo  =100;
+  cout << demo << endl;
+  }
